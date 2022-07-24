@@ -1,0 +1,49 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.carousel-caption {
+    width: 640px;
+    margin: 0 auto;
+    bottom: 3.25rem;
+}
+
+.carousel-caption h5 {
+    font-size: 48px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.carousel-caption p {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.carousel-caption a {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.moment {
+    margin: 100px 0;
+}
+
+.moment-text h2 {
+    font-size: 38px;
+    font-weight: 700;
+    color: #0A0826;
+}
+
+.moment-text p {
+    font-size: 16px;
+    font-weight: 700;
+    color: #6C6C6C;
+}
+
+.moment-text button {
+    font-size: 16px;
+    font-weight: 700;
+}
