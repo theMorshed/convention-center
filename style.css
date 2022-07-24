@@ -29,6 +29,7 @@ body {
 
 .moment {
     margin: 100px 0;
+    position: relative;
 }
 
 .moment-text h2 {
@@ -46,4 +47,10 @@ body {
 .moment-text button {
     font-size: 16px;
     font-weight: 700;
+}
+
+.toast {
+    position: absolute;
+    top: 50%;
+    right: 0;
 }
