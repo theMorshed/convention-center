@@ -55,11 +55,11 @@ body {
     right: 0;
 }
 
-.package {
+.package, .client {
     margin: 100px 0;
 }
 
-.package > h2 {
+.package > h2, .client > h2 {
     margin-bottom: 100px;
 }
 
