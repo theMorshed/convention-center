@@ -54,3 +54,11 @@ body {
     top: 50%;
     right: 0;
 }
+
+.package {
+    margin: 100px 0;
+}
+
+.package > h2 {
+    margin-bottom: 100px;
+}
