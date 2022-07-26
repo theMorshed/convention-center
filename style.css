@@ -55,11 +55,11 @@ body {
     right: 0;
 }
 
-.package, .client {
+.package, .client, .frequent {
     margin: 100px 0;
 }
 
-.package > h2, .client > h2 {
+.package > h2, .client > h2, .frequent > h2 {
     margin-bottom: 100px;
 }
 
@@ -67,5 +67,4 @@ body {
     border-radius: 30px;
     margin-top: -30px;
     padding: 40px 20px 20px !important;
-    drop: 5px 5px 48px lightblue;
 }
